@@ -1,10 +1,5 @@
 # jpa02-gargAneesh
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f24/jpa02-cgaucho
-
 Repo: https://github.com/ucsb-cs156-f24/jpa02-gargAneesh
 
 Deployed at: https://jpa02-garganeesh.dokku-10.cs.ucsb.edu/
